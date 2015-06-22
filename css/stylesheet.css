@@ -1,0 +1,45 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+.title {
+	text-align: center;
+}
+
+.jumbotron {
+	background-image: url("../images/sky.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.title {
+	color: white;
+}
+
+.aboutMe h3 {
+	color: black;
+}
+
+.skills {
+	color: black;
+}
+
+.row h3 {
+	text-align: center;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 35px;
+  background-color: #eee;
+  padding-top: 5px;
+}
