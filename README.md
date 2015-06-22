@@ -1,2 +1,2 @@
 # devjames.uk
-Personal Website
+Personal website
